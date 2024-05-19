@@ -1,0 +1,4 @@
+model_checkpoint_path: "/home/box/coding/CTIR/Moused-David-2024-05-18/dlc-models/iteration-0/MousedMay18-trainset90shuffle1/train/snapshot-15000"
+all_model_checkpoint_paths: "/home/box/coding/CTIR/Moused-David-2024-05-18/dlc-models/iteration-0/MousedMay18-trainset90shuffle1/train/snapshot-5000"
+all_model_checkpoint_paths: "/home/box/coding/CTIR/Moused-David-2024-05-18/dlc-models/iteration-0/MousedMay18-trainset90shuffle1/train/snapshot-10000"
+all_model_checkpoint_paths: "/home/box/coding/CTIR/Moused-David-2024-05-18/dlc-models/iteration-0/MousedMay18-trainset90shuffle1/train/snapshot-15000"
