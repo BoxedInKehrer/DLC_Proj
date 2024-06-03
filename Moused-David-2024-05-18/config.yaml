@@ -32,10 +32,13 @@ bodyparts:
 - stick_head
 - ball
 - sliding_door
+- plateau_corner_middle_front
+- plateau_corner_middle_back
+- plateau_corner_left_front
     # Fraction of video to start/stop when extracting frames for labeling/refinement
 start: 0
 stop: 1
-numframes2pick: 60
+numframes2pick: 20
 
     # Plotting configuration
 skeleton:
